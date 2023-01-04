@@ -1,5 +1,6 @@
-# DSP_Task2_27
-# Sound Equaliezer web app in python using streamlit
+# Equalizer
+##Description
+  Sound Equaliezer web app in python using streamlit
 
 
 ### Team Members
