@@ -1,4 +1,4 @@
-# Equalizer
+# Signal Equalizer
 
 
 ### Team Members
