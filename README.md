@@ -1,6 +1,4 @@
 # Equalizer
-##Description
-  Sound Equaliezer web app in python using streamlit
 
 
 ### Team Members
